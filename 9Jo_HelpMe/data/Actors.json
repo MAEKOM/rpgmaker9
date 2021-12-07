@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"이상현","nickname":"이상현","note":"","profile":""},
+{"id":1,"battlerName":"이상현싸움","characterIndex":7,"characterName":"이상현걷기","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"이상현기본","traits":[],"initialLevel":1,"maxLevel":99,"name":"이상현","nickname":"이상현","note":"","profile":""},
 {"id":2,"battlerName":"haeun","characterIndex":0,"characterName":"haeun","classId":1,"equips":[1,0,0,9,0],"faceIndex":0,"faceName":"haeun","traits":[],"initialLevel":1,"maxLevel":99,"name":"김하은","nickname":"김하은","note":"","profile":""},
-{"id":3,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":5,"equips":[31,0,65,5,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"김민식","nickname":"김민식","note":"","profile":""},
-{"id":4,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"황치문","nickname":"황치문","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_3","characterIndex":0,"characterName":"김민식걷기","classId":5,"equips":[31,0,65,5,0],"faceIndex":1,"faceName":"김민식","traits":[],"initialLevel":1,"maxLevel":99,"name":"김민식","nickname":"김민식","note":"","profile":""},
+{"id":4,"battlerName":"황치문","characterIndex":0,"characterName":"황치문","classId":3,"equips":[7,0,0,20,0],"faceIndex":0,"faceName":"황치문","traits":[],"initialLevel":1,"maxLevel":99,"name":"황치문","nickname":"황치문","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
