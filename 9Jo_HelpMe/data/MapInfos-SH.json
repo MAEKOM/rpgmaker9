@@ -1,0 +1,20 @@
+[
+null,
+{"id":1,"expanded":true,"name":"학교복도","order":1,"parentId":0,"scrollX":507,"scrollY":672.75},
+{"id":2,"expanded":true,"name":"김인권박사님연구소","order":2,"parentId":1,"scrollX":1081.3333333333333,"scrollY":604},
+{"id":3,"expanded":true,"name":"타임머신내부","order":3,"parentId":2,"scrollX":1081.3333333333333,"scrollY":604},
+{"id":4,"expanded":true,"name":"아한마을","order":4,"parentId":3,"scrollX":1471.6363636363637,"scrollY":996},
+{"id":5,"expanded":false,"name":"원로회장집 마당","order":5,"parentId":4,"scrollX":1081.3333333333333,"scrollY":604},
+{"id":6,"expanded":false,"name":"원로회장방","order":6,"parentId":5,"scrollX":0,"scrollY":0},
+{"id":7,"expanded":false,"name":"마을사람집1","order":7,"parentId":4,"scrollX":0,"scrollY":0},
+{"id":8,"expanded":false,"name":"마을사람집2","order":8,"parentId":4,"scrollX":0,"scrollY":0},
+{"id":9,"expanded":false,"name":"마을사람집3","order":9,"parentId":4,"scrollX":0,"scrollY":0},
+{"id":10,"expanded":false,"name":"일반감옥","order":10,"parentId":4,"scrollX":0,"scrollY":0},
+{"id":11,"expanded":true,"name":"왕궁","order":11,"parentId":3,"scrollX":1216.5,"scrollY":691.5},
+{"id":12,"expanded":false,"name":"왕의 집무실","order":13,"parentId":11,"scrollX":816,"scrollY":640},
+{"id":13,"expanded":false,"name":"제사장집무실","order":14,"parentId":11,"scrollX":0,"scrollY":0},
+{"id":14,"expanded":true,"name":"미로","order":15,"parentId":11,"scrollX":1622,"scrollY":913},
+{"id":15,"expanded":true,"name":"비밀감옥","order":16,"parentId":11,"scrollX":0,"scrollY":0},
+{"id":16,"expanded":false,"name":"MAP016aa","order":17,"parentId":15,"scrollX":0,"scrollY":0},
+{"id":17,"expanded":false,"name":"성입구","order":12,"parentId":11,"scrollX":1228.5,"scrollY":691.5}
+]
