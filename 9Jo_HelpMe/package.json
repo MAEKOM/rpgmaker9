@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
-        "title": "9Jo_HelpMe",
+        "title": "아한 탈출",
         "width": 816,
         "height": 624,
         "position": "center",
