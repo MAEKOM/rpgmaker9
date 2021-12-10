@@ -14,12 +14,12 @@ null,
 {"id":12,"expanded":false,"name":"왕의 집무실","order":16,"parentId":11,"scrollX":1390.2857142857142,"scrollY":790.2857142857142},
 {"id":13,"expanded":false,"name":"제사장집무실","order":17,"parentId":11,"scrollX":1216.5,"scrollY":691.5},
 {"id":14,"expanded":true,"name":"미로","order":19,"parentId":15,"scrollX":1467,"scrollY":732.6},
-{"id":15,"expanded":false,"name":"비밀감옥","order":18,"parentId":11,"scrollX":1493.3333333333333,"scrollY":1082.6666666666667},
+{"id":15,"expanded":true,"name":"비밀감옥","order":18,"parentId":11,"scrollX":1390.2857142857142,"scrollY":790.2857142857142},
 {"id":16,"expanded":true,"name":"타임머신내부","order":4,"parentId":3,"scrollX":1493.3333333333333,"scrollY":1082.6666666666667},
 {"id":17,"expanded":false,"name":"성입구","order":15,"parentId":11,"scrollX":1390.2857142857142,"scrollY":790.2857142857142},
 {"id":18,"expanded":true,"name":"곳간","order":9,"parentId":5,"scrollX":0,"scrollY":0},
 {"id":19,"expanded":false,"name":"현세로","order":6,"parentId":4,"scrollX":1216.5,"scrollY":691.5},
 {"id":20,"expanded":true,"name":"복수극엔딩","order":20,"parentId":14,"scrollX":1390.2857142857142,"scrollY":776.5714285714286},
 {"id":21,"expanded":false,"name":"MAP021","order":21,"parentId":20,"scrollX":0,"scrollY":0},
-{"id":22,"expanded":false,"name":"아한마을-오프","order":22,"parentId":0,"scrollX":1946.3999999999999,"scrollY":1106.3999999999999}
+{"id":22,"expanded":false,"name":"아한마을-오프","order":22,"parentId":0,"scrollX":1404,"scrollY":1105.7142857142856}
 ]
