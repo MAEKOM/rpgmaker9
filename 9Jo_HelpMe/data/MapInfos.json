@@ -19,7 +19,7 @@ null,
 {"id":17,"expanded":false,"name":"성입구","order":15,"parentId":11,"scrollX":1390.2857142857142,"scrollY":790.2857142857142},
 {"id":18,"expanded":true,"name":"곳간","order":9,"parentId":5,"scrollX":0,"scrollY":0},
 {"id":19,"expanded":false,"name":"현세로","order":6,"parentId":4,"scrollX":1390.2857142857142,"scrollY":790.2857142857142},
-{"id":20,"expanded":true,"name":"복수극엔딩","order":20,"parentId":14,"scrollX":1390.2857142857142,"scrollY":776.5714285714286},
+{"id":20,"expanded":true,"name":"복수극엔딩","order":20,"parentId":14,"scrollX":1377.6,"scrollY":1087.2},
 {"id":21,"expanded":false,"name":"MAP021","order":21,"parentId":20,"scrollX":1377.6,"scrollY":1087.2},
 {"id":22,"expanded":false,"name":"아한마을-오프","order":22,"parentId":0,"scrollX":1404,"scrollY":1105.7142857142856}
 ]
