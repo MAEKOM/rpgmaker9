@@ -36,4 +36,9 @@ Scene_Boot.prototype.startNormalGame = function() {
     SceneManager.goto(Scene_Map);
     //Window_TitleCommand.initCommandPosition();
 };
+//게임 종료시 타이틀가는것 방지
+    Scene_GameEnd.prototype.commandToTitle = function() {
+    this.fadeOutAll();
+    SceneManager.exit();
+   };
 })();
